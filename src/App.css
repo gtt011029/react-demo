@@ -19,3 +19,7 @@
 .App-link {
   color: #61dafb;
 }
+
+.component-test-container {
+  border: 1px solid red;
+}
